@@ -13,5 +13,6 @@ namespace ConsoleApp1
         public string genero;
         public string sueldo;
 
+
     }
 }
